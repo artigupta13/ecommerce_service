@@ -10,7 +10,6 @@ settings_local.py
 *.log
 Pipfile.lock
 .env
-**/migrations/*.py
 /__pycache__/
 db.sqlite3  
 .DS_Store
